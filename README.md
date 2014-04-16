@@ -6,6 +6,8 @@ Click here to view keymapSweCode is a keyboard layout, based on sv-SE standard, 
 
 Some characters have been duplicated. This is to ease the switching between working in SweCode and standard Swedish keyboards.
 
+![Keymap v7](https://github.com/jansson/SweCode/releases/download/7/map.jpg)
+
 ## How To Install ##
 
 1.  Unzip the package.
